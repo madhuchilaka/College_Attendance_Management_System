@@ -279,7 +279,7 @@ Attendance_Management_System
 
 ---
 
-# 🚀 Installation
+## 🚀 Installation
 
 Clone the repository
 
@@ -290,7 +290,7 @@ git clone https://github.com/madhuchilaka/College_Attendance_Management_System.g
 Go to the project folder
 
 ```bash
-cd Attendance_Management_System
+cd College_Attendance_Management_System
 ```
 
 Run the project
