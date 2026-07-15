@@ -1,0 +1,11 @@
+{
+    "ASN001": {
+        "faculty_id": "FAC004",
+        "faculty_name": "Nicky",
+        "subject_code": "SUB001",
+        "subject_name": "Python",
+        "year": "2",
+        "department": "CSE-AIML",
+        "section": "C"
+    }
+}

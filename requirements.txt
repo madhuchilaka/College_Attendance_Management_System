@@ -1,0 +1,8 @@
+# College Attendance Management System
+
+# This project uses only Python Standard Library.
+
+# No external packages are required.
+
+# Python Version
+Python>=3.10

@@ -1,0 +1,83 @@
+{
+    "SUB001": {
+        "subject_code": "5",
+        "subject_name": "Java",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "FAC002",
+        "credits": 3
+    },
+    "SUB002": {
+        "subject_code": "C",
+        "subject_name": "Pps",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "FAC001",
+        "credits": 4
+    },
+    "SUB003": {
+        "subject_code": "DBMS",
+        "subject_name": "Data_Base",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "FAC002",
+        "credits": 4
+    },
+    "SUB004": {
+        "subject_code": "DM",
+        "subject_name": "Dm",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "FAC002",
+        "credits": 4
+    },
+    "SUB005": {
+        "subject_code": "7",
+        "subject_name": "Java",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "10",
+        "credits": 4
+    },
+    "SUB006": {
+        "subject_code": "1",
+        "subject_name": "Pps",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "001",
+        "credits": 4
+    },
+    "SUB007": {
+        "subject_code": "ML",
+        "subject_name": "Ml",
+        "year": 1,
+        "semester": 1,
+        "department": "CSE",
+        "faculty_id": "001",
+        "credits": 4
+    },
+    "SUB008": {
+        "subject_code": "PYTHON",
+        "subject_name": "Python",
+        "year": 2,
+        "semester": 1,
+        "department": "CSE-AIML",
+        "faculty_id": "10",
+        "credits": 3
+    },
+    "SUB009": {
+        "subject_code": "PEC",
+        "subject_name": "PEC",
+        "year": 3,
+        "semester": 2,
+        "department": "CSE-AIML",
+        "faculty_id": "FAC005",
+        "credits": 4
+    }
+}

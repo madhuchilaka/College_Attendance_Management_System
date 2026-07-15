@@ -1,0 +1,47 @@
+{
+    "FAC001": {
+        "name": "Raj",
+        "gender": "Male",
+        "designation": "Associate Professor",
+        "department": "CSE-AIML",
+        "email": "aa",
+        "phone": "1123",
+        "subjects": []
+    },
+    "FAC002": {
+        "name": "Newt",
+        "gender": "Male",
+        "designation": "Professor",
+        "department": "CSE-AIML",
+        "email": "newt@gmail.com",
+        "phone": "9876543217",
+        "subjects": []
+    },
+    "FAC003": {
+        "name": "Madhu",
+        "gender": "Male",
+        "designation": "Assistant Professor",
+        "department": "CSE",
+        "email": "aa@gmail.com",
+        "phone": "2112",
+        "subjects": []
+    },
+    "FAC004": {
+        "name": "Nicky",
+        "gender": "Female",
+        "designation": "Assistant Professor",
+        "department": "CSE-AIML",
+        "email": "aaa",
+        "phone": "213",
+        "subjects": []
+    },
+    "FAC005": {
+        "name": "rose",
+        "gender": "Female",
+        "designation": "Assistant Professor",
+        "department": "CSE",
+        "email": "rose@gmail.com",
+        "phone": "9876543254",
+        "subjects": []
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "STU001": {
+        "name": "Madhu",
+        "gender": "Male",
+        "email": "madhu@gmail.com",
+        "phone": "1234567890",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU002": {
+        "name": "Raj",
+        "gender": "Male",
+        "email": "raj@gmail.com",
+        "phone": "0987654321",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU003": {
+        "name": "Scamender",
+        "gender": "Male",
+        "email": "scamender@gmail.com",
+        "phone": "1111111111",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU004": {
+        "name": "Nicky",
+        "gender": "Female",
+        "email": "nicky@gmail.com",
+        "phone": "2222222222",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU005": {
+        "name": "Vicky",
+        "gender": "Male",
+        "email": "vicky@gmail.com",
+        "phone": "3333333333",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU006": {
+        "name": "Anil",
+        "gender": "Male",
+        "email": "anil@gmail.com",
+        "phone": "4444444444",
+        "year": 2,
+        "department": "CSE-AIML",
+        "section": "C",
+        "attendance": {}
+    },
+    "STU007": {
+        "name": "Vignesh",
+        "gender": "Male",
+        "email": "vignesh@gmail.com",
+        "phone": "5555555555",
+        "year": 2,
+        "department": "CSE-AIML",
+        "section": "C",
+        "attendance": {}
+    },
+    "STU008": {
+        "name": "Shashank",
+        "gender": "Male",
+        "email": "shashank@gmail.com",
+        "phone": "6666666666",
+        "year": 2,
+        "department": "CSE-AIML",
+        "section": "C",
+        "attendance": {}
+    },
+    "STU009": {
+        "name": "Radhe",
+        "gender": "Male",
+        "email": "radhe@gmail.com",
+        "phone": "7777777777",
+        "year": 2,
+        "department": "CSE-AIML",
+        "section": "C",
+        "attendance": {}
+    },
+    "STU010": {
+        "name": "Bhavesh",
+        "gender": "Male",
+        "email": "bhavesh@gmail.com",
+        "phone": "8888888888",
+        "year": 2,
+        "department": "CSE-AIML",
+        "section": "C",
+        "attendance": {}
+    },
+    "STU011": {
+        "name": "Raju",
+        "gender": "Male",
+        "email": "raju@gmail.com",
+        "phone": "9999999999",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    },
+    "STU012": {
+        "name": "kim",
+        "gender": "Male",
+        "email": "kim@gmail.com",
+        "phone": "9876543219",
+        "year": 1,
+        "department": "CSE",
+        "section": "A",
+        "attendance": {}
+    }
+}

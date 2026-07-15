@@ -1,0 +1,31 @@
+{
+    "college_name": "CMR Engineering College",
+
+    "academic_years": [
+        1,
+        2,
+        3,
+        4
+    ],
+
+    "departments": [
+        "CSE",
+        "CSE-AIML",
+        "IT",
+        "ECE",
+        "EEE"
+    ],
+
+    "sections": [
+        "A",
+        "B",
+        "C"
+    ],
+
+    "designations": [
+        "Assistant Professor",
+        "Associate Professor",
+        "Professor",
+        "Head of Department"
+    ]
+}
