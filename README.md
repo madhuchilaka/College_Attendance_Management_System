@@ -284,7 +284,7 @@ Attendance_Management_System
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Attendance_Management_System.git
+git clone https://github.com/madhuchilaka/College_Attendance_Management_System.git
 ```
 
 Go to the project folder
